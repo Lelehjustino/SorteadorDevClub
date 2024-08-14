@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Oswald", sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-bottom: 1px;
+}
+
+p {
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 450;
+    line-height: 37.5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 342px;
+    height: 74px;
+    top: 705px;
+    border-radius: 14px;
+    border: 2px solid none;
+    text-align: center;
+    font-size: 20px;
+    font-size: 20px;
+}
+
+#inputE{
+    margin-right: 10px;
+}
+
+.input {
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 72px;
+    border-radius: 10px;
+    background: #AEC346;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 0px 18px 40px 0px #AEC34659;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 20px;
+}
